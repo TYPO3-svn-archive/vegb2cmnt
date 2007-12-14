@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'vegb2cmnt'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="moduleFunction.tx_vegb2cmnt_modfunc1">Convert ve_guestbook to comments</label>
+			<label index="tx_vegb2cmnt_origuid">Imported from ve_guestbook entry:</label>
+			<label index="tx_vegb2cmnt_origuid.wizard">Go to selected entry</label>
+		</languageKey>
+	</data>
+</T3locallang>
