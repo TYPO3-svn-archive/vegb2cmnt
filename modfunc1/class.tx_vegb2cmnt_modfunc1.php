@@ -114,6 +114,7 @@ class tx_vegb2cmnt_modfunc1 extends t3lib_extobjbase {
 			}
 			else {
 				$entry['external_prefix'] = 'pages';
+				$entry['external_ref'] = 'pages_' . $row['pid'];
 			}
 			$recs[] = $entry;
 			$count++;
